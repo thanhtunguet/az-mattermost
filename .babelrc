@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "@babel/preset-typescript",
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    "macros",
+    "@babel/plugin-transform-runtime"
+  ]
+}

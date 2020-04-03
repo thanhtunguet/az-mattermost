@@ -1,0 +1,5 @@
+version: '3'
+services:
+  azure-mattermost:
+    image: azure-mattermost:latest
+    env_file: .env

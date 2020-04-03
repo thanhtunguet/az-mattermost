@@ -1,0 +1,137 @@
+{
+  "subscriptionId": "a67fcbfb-ca14-407b-a7f2-5ddfd94ddae3",
+  "notificationId": 1,
+  "id": "cc8cdda0-1c4e-4d69-ad05-7bf1d9bb9662",
+  "eventType": "workitem.updated",
+  "publisherId": "tfs",
+  "message": {
+    "text": "Task #210 (Viết tích hợp đẩy thông báo mattermost) assigned to Phạm Thanh Tùng by Phạm Thanh Tùng\r\n(http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&id=210)",
+    "html": "<a href=\"http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&amp;id=210\">Task #210</a> (Viết t&#237;ch hợp đẩy th&#244;ng b&#225;o mattermost) assigned to Phạm Thanh Tùng by Phạm Thanh T&#249;ng",
+    "markdown": "[Task #210](http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&id=210) (Viết tích hợp đẩy thông báo mattermost) assigned to Phạm Thanh Tùng by Phạm Thanh Tùng"
+  },
+  "detailedMessage": {
+    "text": "Task #210 (Viết tích hợp đẩy thông báo mattermost)  assigned to Phạm Thanh Tùng by Phạm Thanh Tùng\r\n(http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&id=210)\r\n\r\n- New Assigned to: Phạm Thanh Tùng <DOCUMENT\\tungpt>\r\n",
+    "html": "<a href=\"http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&amp;id=210\">Task #210</a> (Viết t&#237;ch hợp đẩy th&#244;ng b&#225;o mattermost) assigned to Phạm Thanh Tùng by Phạm Thanh T&#249;ng<ul>\r\n<li>New Assigned to: Phạm Thanh Tùng <DOCUMENT\\tungpt></li></ul>",
+    "markdown": "[Task #210](http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&id=210) (Viết tích hợp đẩy thông báo mattermost) assigned to Phạm Thanh Tùng by Phạm Thanh Tùng\r\n\r\n* New Assigned to: Phạm Thanh Tùng <DOCUMENT\\tungpt>\r\n"
+  },
+  "resource": {
+    "id": 7,
+    "workItemId": 210,
+    "rev": 7,
+    "revisedBy": {
+      "id": "9a4f8f45-cf5d-4506-b61a-4be7d00e1177",
+      "name": "Phạm Thanh Tùng <DOCUMENT\\tungpt>",
+      "displayName": "Phạm Thanh Tùng",
+      "url": "http://devops.truesight.asia/DefaultCollection/_apis/Identities/9a4f8f45-cf5d-4506-b61a-4be7d00e1177",
+      "_links": {
+        "avatar": {
+          "href": "http://devops.truesight.asia/DefaultCollection/_apis/GraphProfile/MemberAvatars/win.Uy0xLTUtMjEtMTcxMjQ0Njg4OC0xODI3MzQzNDIxLTY5OTUwNzk3Ni0xMDA2"
+        }
+      },
+      "uniqueName": "DOCUMENT\\tungpt",
+      "imageUrl": "http://devops.truesight.asia/DefaultCollection/_api/_common/identityImage?id=9a4f8f45-cf5d-4506-b61a-4be7d00e1177",
+      "descriptor": "win.Uy0xLTUtMjEtMTcxMjQ0Njg4OC0xODI3MzQzNDIxLTY5OTUwNzk3Ni0xMDA2"
+    },
+    "revisedDate": "9999-01-01T00:00:00Z",
+    "fields": {
+      "System.Rev": {
+        "oldValue": 6,
+        "newValue": 7
+      },
+      "System.AuthorizedDate": {
+        "oldValue": "2020-04-03T09:40:01.577Z",
+        "newValue": "2020-04-03T09:41:23.427Z"
+      },
+      "System.RevisedDate": {
+        "oldValue": "2020-04-03T09:41:23.427Z",
+        "newValue": "9999-01-01T00:00:00Z"
+      },
+      "System.AssignedTo": {
+        "oldValue": "chiennv <DOCUMENT\\chiennv>",
+        "newValue": "Phạm Thanh Tùng <DOCUMENT\\tungpt>"
+      },
+      "System.ChangedDate": {
+        "oldValue": "2020-04-03T09:40:01.577Z",
+        "newValue": "2020-04-03T09:41:23.427Z"
+      },
+      "System.Watermark": {
+        "oldValue": 1054,
+        "newValue": 1055
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/updates/7"
+      },
+      "workItemUpdates": {
+        "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/updates"
+      },
+      "parent": {
+        "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210"
+      },
+      "html": {
+        "href": "http://devops.truesight.asia/web/wi.aspx?pcguid=14641d43-daf0-420f-97c3-cafa109bd0bc&id=210"
+      }
+    },
+    "url": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/updates/7",
+    "revision": {
+      "id": 210,
+      "rev": 7,
+      "fields": {
+        "System.AreaPath": "RangDong",
+        "System.TeamProject": "RangDong",
+        "System.IterationPath": "RangDong\\Sprint 1",
+        "System.WorkItemType": "Task",
+        "System.State": "To Do",
+        "System.Reason": "New task",
+        "System.AssignedTo": "Phạm Thanh Tùng <DOCUMENT\\tungpt>",
+        "System.CreatedDate": "2020-04-03T09:37:11.44Z",
+        "System.CreatedBy": "Phạm Thanh Tùng <DOCUMENT\\tungpt>",
+        "System.ChangedDate": "2020-04-03T09:41:23.427Z",
+        "System.ChangedBy": "Phạm Thanh Tùng <DOCUMENT\\tungpt>",
+        "System.CommentCount": 0,
+        "System.Title": "Viết tích hợp đẩy thông báo mattermost",
+        "Microsoft.VSTS.Scheduling.RemainingWork": 3,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-04-03T09:37:11.44Z",
+        "Microsoft.VSTS.Common.Priority": 2
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/124",
+          "attributes": {
+            "isLocked": false
+          }
+        }
+      ],
+      "_links": {
+        "self": {
+          "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/revisions/7"
+        },
+        "workItemRevisions": {
+          "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/revisions"
+        },
+        "parent": {
+          "href": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210"
+        }
+      },
+      "url": "http://devops.truesight.asia/DefaultCollection/505055aa-afec-4faa-b8a2-5650953454aa/_apis/wit/workItems/210/revisions/7"
+    }
+  },
+  "resourceVersion": "1.0",
+  "resourceContainers": {
+    "collection": {
+      "id": "14641d43-daf0-420f-97c3-cafa109bd0bc",
+      "baseUrl": "http://devops.truesight.asia/DefaultCollection/"
+    },
+    "server": {
+      "id": "80b49347-e671-41cb-b390-a2e676776588",
+      "baseUrl": "http://devops.truesight.asia/"
+    },
+    "project": {
+      "id": "505055aa-afec-4faa-b8a2-5650953454aa",
+      "baseUrl": "http://devops.truesight.asia/DefaultCollection/"
+    }
+  },
+  "createdDate": "2020-04-03T09:41:30.2808541Z"
+}
