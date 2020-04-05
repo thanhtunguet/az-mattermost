@@ -1,4 +1,9 @@
-node_modules/
 .git/
-.env
 dist/
+node_modules/
+.env
+docker-compose.yml
+docker-compose.override.*
+Dockerfile
+tslint.json
+webpack.config.json

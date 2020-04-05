@@ -3,3 +3,5 @@ services:
   azure-mattermost:
     image: thanhtunguet/azure-mattermost:latest
     env_file: .env
+    volumes:
+      - /app/node_modules/
