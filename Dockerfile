@@ -10,4 +10,4 @@ EXPOSE 8080
 COPY package.json ./
 COPY --from=node-dev /app/dist/ ./dist/
 RUN yarn install --production
-CMD ["yarn", "serve"]
+CMD ["yarn", "live"]
