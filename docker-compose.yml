@@ -1,7 +1,8 @@
 version: '3'
 services:
   azure-mattermost:
-    image: thanhtunguet/azure-mattermost:latest
+    image: thanhtunguet/azure-devops-mattermost:latest
+    restart: on-failure
     env_file: .env
     volumes:
       - /app/node_modules/

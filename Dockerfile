@@ -6,8 +6,8 @@ RUN yarn build --development
 
 FROM node:13.10-alpine
 WORKDIR /app
-COPY package.json ./
-RUN yarn install --prod
-COPY --from=node-dev /app/dist/ .
-CMD ["node", "."]
 EXPOSE 8080
+COPY package.json ./
+COPY --from=node-dev /app/dist/ ./dist/
+RUN yarn install --production
+CMD ["yarn", "serve"]

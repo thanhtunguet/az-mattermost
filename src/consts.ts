@@ -1,7 +1,3 @@
-import dotenv from 'dotenv';
-
-dotenv.config();
-
 export const WEBHOOK_URL: string = process.env.WEBHOOK_URL;
 
 if (typeof WEBHOOK_URL !== 'string' || WEBHOOK_URL === '') {
