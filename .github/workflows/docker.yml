@@ -18,9 +18,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: echo ${DOCKER_USERNAME}
-#      run: docker build . --file Dockerfile --tag thanhtunguet/azure-devops-mattermost:latest
-#    - name: Login to docker hub
-#      run: eval `echo "${DOCKER_PASSWORD}"` | docker login docker.io -u ${DOCKER_USERNAME} --password-stdin
-#    - name: Push image to docker hub
-#      run: docker push thanhtunguet/azure-devops-mattermost:latest
+      run: docker build . --file Dockerfile --tag thanhtunguet/azure-devops-mattermost:latest
+    - name: Login to docker hub
+      run: echo ${DOCKER_PASSWORD} | docker login docker.io -u ${DOCKER_USERNAME} --password-stdin
+    - name: Push image to docker hub
+      run: docker push thanhtunguet/azure-devops-mattermost:latest
